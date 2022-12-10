@@ -45,6 +45,8 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [![Express][Express.io]][Express-url]
 [![Mocha][Mocha.io]][Mocha-url]
 [![Chai][Chai.io]][Chai-url]
+[![JWT][JWT-logo]][JWT-url]
+
   
 </div>
 
@@ -73,4 +75,9 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Mocha-url]: https://mochajs.org
 [Chai.io]: https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white
 [Chai-url]: https://www.chaijs.com
+[JWT-logo]:https://img.shields.io/badge/JWT-black?style=For-the-badge&logo=JSON%20web%20tokens
+[JWT-url]: https://jwt.io/
+
+
+          
 
