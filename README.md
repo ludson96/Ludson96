@@ -13,8 +13,12 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/Ludson96" target="_blank" rel="noreferrer">
-<a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <p align="left">
+  <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  <a href="mailto:pguilhermesantos@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
+  </a>
 </p>
   
 <!-- <div id="stats" align="center"> -->
