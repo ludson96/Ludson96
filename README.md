@@ -34,54 +34,57 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 <!-- </div> -->
 
 <div id="badges" align="center">
-
-![HTML5][HTML5.io]
-![CSS3][CSS3.io]
-![JavaScript][JavaScript.io]
-[![React][React.io]][React-url]
-[![Redux][Redux.io]][Redux-url]
-[![NodeJS][NodeJS.io]][NodeJS-url]
-[![Docker][Docker.io]][Docker-url]
-[![Jest][Jest.io]][Jest-url]
-[![MySQL][MySQL.io]][MySQL-url]
-[![Sequelize][Sequelize.io]][Sequelize-url]
-[![Git][Git.io]][Git-url]
-[![Express][Express.io]][Express-url]
-[![Mocha][Mocha.io]][Mocha-url]
-[![Chai][Chai.io]][Chai-url]
+    
+[![HTML5][HTML5-logo]][HTML5-url]
+[![CSS3][CSS3-logo]][CSS3-url]
+[![JavaScript][JavaScript-logo]][JavaScript-url]
+[![React][React-logo]][React-url]
+[![RTL][RTL-logo]][RTL-url]
+[![Redux][Redux-logo]][Redux-url]
+[![NodeJS][NodeJS-logo]][NodeJS-url]
+[![Docker][Docker-logo]][Docker-url]
+[![Jest][Jest-logo]][Jest-url]
+[![MySQL][MySQL-logo]][MySQL-url]
+[![Sequelize][Sequelize-logo]][Sequelize-url]
+[![Git][Git-logo]][Git-url]
+[![Express][Express-logo]][Express-url]
+[![Mocha][Mocha-logo]][Mocha-url]
+<a href="https://www.chaijs.com" ><img height="28px" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge" /></a>
 [![JWT][JWT-logo]][JWT-url]
-
+[![TypeScript][TypeScript-logo]][TypeScript-url]
   
 </div>
 
-[HTML5.io]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white
-[CSS3.io]: https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white
-[JavaScript.io]: https://img.shields.io/badge/javascript-F7DF1E?logo=javascript&logoColor=black
-[React.io]: https://img.shields.io/badge/react-61DAFB?logo=react&logoColor=black
+
+[HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
+[CSS3-logo]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+[JavaScript-logo]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[JavaScript-url]: https://www.javascript.com/
+[React-logo]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [React-url]: https://reactjs.org
-[Redux.io]: https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white
+[RTL-logo]: https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white
+[RTL-url]: https://testing-library.com/
+[Redux-logo]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org
-[NodeJS.io]: https://img.shields.io/badge/node.js-339933?logo=node.js&logoColor=white
+[NodeJS-logo]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJS-url]: https://nodejs.org/en/
-[Docker.io]: https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white
+[Docker-logo]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
-[Jest.io]: https://img.shields.io/badge/jest-C21325?logo=jest&logoColor=white
+[Jest-logo]: https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white
 [Jest-url]: https://jestjs.io
-[MySQL.io]: https://img.shields.io/badge/mysql-4479A1?logo=mysql&logoColor=white
+[MySQL-logo]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
 [MySQL-url]: https://www.mysql.com
-[Sequelize.io]: https://img.shields.io/badge/sequelize-52B0E7?logo=sequelize&logoColor=white
+[Sequelize-logo]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
 [Sequelize-url]: https://sequelize.org
-[Git.io]: https://img.shields.io/badge/git-F05032?logo=git&logoColor=white
+[Git-logo]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [Git-url]: https://git-scm.com
-[Express.io]: https://img.shields.io/badge/express-000000?logo=express&logoColor=white
+[Express-logo]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
 [Express-url]: https://expressjs.com
-[Mocha.io]: https://img.shields.io/badge/mocha-8D6748?logo=mocha&logoColor=white
+[Mocha-logo]: https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white
 [Mocha-url]: https://mochajs.org
-[Chai.io]: https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white
-[Chai-url]: https://www.chaijs.com
-[JWT-logo]:https://img.shields.io/badge/JWT-black?style=For-the-badge&logo=JSON%20web%20tokens
+[JWT-logo]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 [JWT-url]: https://jwt.io/
-
-
-          
-
+[TypeScript-logo]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org/
