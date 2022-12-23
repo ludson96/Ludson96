@@ -9,16 +9,16 @@ Sou curioso, antenado e apaixonado por tecnologia. Sempre aprendendo alguma cois
 Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo experiencia na área administrativa em empresas de suporte de TI, mas minha área sempre foi tecnologia.
 
 * 🌍 Duque de Caxias - Rio de Janeiro
-* ✉️  Você pode entrar em contato comigo em [ludson_ps27@hotmail.com](mailto:ludson_ps27@hotmail.com)
+* ✉️  Você pode entrar em contato comigo em <a href="mailto:ludson_ps27@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
+  </a>
 
 ### Socials
 
   <p align="left">
   <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-  <a href="mailto:ludson_ps27@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
-  </a>
+  
 </p>
   
 <!-- <div id="stats" align="center"> -->
