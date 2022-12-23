@@ -16,7 +16,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
   <p align="left">
   <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-  <a href="mailto:ludson_ps27@hotmail.com" target="_blank">
+  <a href="mailto:ludson_ps27@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
   </a>
 </p>
