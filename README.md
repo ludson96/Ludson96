@@ -52,6 +52,8 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 <a href="https://www.chaijs.com" ><img height="28px" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge" /></a>
 [![JWT][JWT-logo]][JWT-url]
 [![TypeScript][TypeScript-logo]][TypeScript-url]
+[![Nodemon][Nodemon-logo]][Nodemon-url]
+[![ESLint][ESLint-logo]][ESLint-url]
   
 </div>
 
@@ -88,3 +90,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [JWT-url]: https://jwt.io/
 [TypeScript-logo]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [TypeScript-url]: https://www.typescriptlang.org/
+[Nodemon-logo]: https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=fff&style=for-the-badge
+[Nodemon-url]: https://www.npmjs.com/package/nodemon
+[ESLint-logo]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
+[ESLint-url]: https://eslint.org/
