@@ -49,7 +49,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [![Git][Git-logo]][Git-url]
 [![Express][Express-logo]][Express-url]
 [![Mocha][Mocha-logo]][Mocha-url]
-<a href="https://www.chaijs.com" ><img height="28px" src="https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge" /></a>
+[![Chai][Chai-logo]][Chai-url]
 [![JWT][JWT-logo]][JWT-url]
 [![TypeScript][TypeScript-logo]][TypeScript-url]
 [![Nodemon][Nodemon-logo]][Nodemon-url]
@@ -94,3 +94,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Nodemon-url]: https://www.npmjs.com/package/nodemon
 [ESLint-logo]: https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white
 [ESLint-url]: https://eslint.org/
+[Chai-logo]: https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge
+[Chai-url]: https://www.chaijs.com
