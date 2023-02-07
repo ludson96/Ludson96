@@ -1,7 +1,6 @@
 Olá 👋 Meu nome é Ludson Pereira
-==============================
-
-Estudante Full-stack Software Developer na Trybe.
+-----------------------
+Sou estudante de desenvolvimento Full-stack na Trybe.
 -----------------------
 
 Sou curioso, antenado e apaixonado por tecnologia. Sempre aprendendo alguma coisa nova. Estudo Desenvolvimento Web  (Full Stack) na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  Possuo técnico em informática, montagem e manutenção de micro. 
@@ -13,25 +12,26 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
   </a>
 
+<div align="center">
+    
 ### Socials
 
-  <p align="left">
-  <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
-  
-</p>
-  
-<!-- <div id="stats" align="center"> -->
-  
-  <b>My GitHub Stats</b>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula)
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula)
-  
-  <a href="https://github.com/Ludson96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ludson96&stroke=ffffff&theme=dracula" /></a>
+  <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    
+</div>
 
-<!-- </div> -->
+<div align="center" margin-bottom="10px">
+    
+### My GitHub Stats
+    
+  <a href="https://github.com/Ludson96">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula"/>
+  <!-- <a href="https://github.com/Ludson96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ludson96&stroke=ffffff&theme=dracula" /></a> -->
+      
+</div>
+    
+<br/>
 
 <div id="badges" align="center">
     
@@ -54,6 +54,8 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [![TypeScript][TypeScript-logo]][TypeScript-url]
 [![Nodemon][Nodemon-logo]][Nodemon-url]
 [![ESLint][ESLint-logo]][ESLint-url]
+[![Mongo][Mongo-logo]][Mongo-url]
+[![Solid][Solid-logo]][Solid-url]
   
 </div>
 
@@ -96,3 +98,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [ESLint-url]: https://eslint.org/
 [Chai-logo]: https://img.shields.io/badge/Chai-A30701?logo=chai&logoColor=fff&style=for-the-badge
 [Chai-url]: https://www.chaijs.com
+[Mongo-url]:https://www.mongodb.com/
+[Mongo-logo]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[Solid-url]: https://pt.wikipedia.org/wiki/SOLID
+[Solid-logo]: https://img.shields.io/badge/Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb
