@@ -55,6 +55,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [![Nodemon][Nodemon-logo]][Nodemon-url]
 [![ESLint][ESLint-logo]][ESLint-url]
 [![Mongo][Mongo-logo]][Mongo-url]
+[![Mongoose][Mongoose-logo]][Mongoose-url]
 [![Solid][Solid-logo]][Solid-url]
   
 </div>
@@ -102,3 +103,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Mongo-logo]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
 [Solid-url]: https://pt.wikipedia.org/wiki/SOLID
 [Solid-logo]: https://img.shields.io/badge/Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb
+[Mongoose-url]: https://mongoosejs.com/
+[Mongoose-logo]: https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
