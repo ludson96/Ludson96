@@ -12,14 +12,50 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
   </a>
 
-<div align="center">
-    
-### Socials
+## **Linguagens:**
+
+### **Back-End**
+ [![JavaScript][JavaScript-logo]][JavaScript-url]
+ [![TypeScript][TypeScript-logo]][TypeScript-url]
+ [![NodeJS][NodeJS-logo]][NodeJS-url]
+
+### **Front-End**
+ [![JavaScript][JavaScript-logo]][JavaScript-url]
+ [![TypeScript][TypeScript-logo]][TypeScript-url]
+ [![React][React-logo]][React-url]
+ [![HTML5][HTML5-logo]][HTML5-url]
+ [![CSS3][CSS3-logo]][CSS3-url]
+
+### **Database**
+ [![MySQL][MySQL-logo]][MySQL-url]
+ [![Mongo][Mongo-logo]][Mongo-url]
+
+### **Testes**
+  [![Jest][Jest-logo]][Jest-url]
+  [![RTL][RTL-logo]][RTL-url]
+  [![Mocha][Mocha-logo]][Mocha-url]
+  [![Chai][Chai-logo]][Chai-url]
+  [![Sinon][Sinon-logo]][Sinon-url]
+
+## **Ferramentas:**
+ [![Express][Express-logo]][Express-url]
+ [![Docker][Docker-logo]][Docker-url]
+ [![Git][Git-logo]][Git-url]
+ [![ESLint][ESLint-logo]][ESLint-url]
+ [![Redux][Redux-logo]][Redux-url]
+ [![Sequelize][Sequelize-logo]][Sequelize-url]
+ [![Solid][Solid-logo]][Solid-url]
+ [![ts-node][ts-node-logo]][ts-node-url]
+ [![Mongoose][Mongoose-logo]][Mongoose-url]
+
+## **Aprendendo**
+
+[![Python][Python-logo]][Python-url]
+
+### Redes Sociais 
 
   <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     
-</div>
-
 <div align="center" margin-bottom="10px">
     
 ### My GitHub Stats
@@ -32,34 +68,6 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 </div>
     
 <br/>
-
-<div id="badges" align="center">
-    
-[![HTML5][HTML5-logo]][HTML5-url]
-[![CSS3][CSS3-logo]][CSS3-url]
-[![JavaScript][JavaScript-logo]][JavaScript-url]
-[![React][React-logo]][React-url]
-[![RTL][RTL-logo]][RTL-url]
-[![Redux][Redux-logo]][Redux-url]
-[![NodeJS][NodeJS-logo]][NodeJS-url]
-[![Docker][Docker-logo]][Docker-url]
-[![Jest][Jest-logo]][Jest-url]
-[![MySQL][MySQL-logo]][MySQL-url]
-[![Sequelize][Sequelize-logo]][Sequelize-url]
-[![Git][Git-logo]][Git-url]
-[![Express][Express-logo]][Express-url]
-[![Mocha][Mocha-logo]][Mocha-url]
-[![Chai][Chai-logo]][Chai-url]
-[![JWT][JWT-logo]][JWT-url]
-[![TypeScript][TypeScript-logo]][TypeScript-url]
-[![Nodemon][Nodemon-logo]][Nodemon-url]
-[![ESLint][ESLint-logo]][ESLint-url]
-[![Mongo][Mongo-logo]][Mongo-url]
-[![Mongoose][Mongoose-logo]][Mongoose-url]
-[![Solid][Solid-logo]][Solid-url]
-  
-</div>
-
 
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
@@ -105,3 +113,9 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Solid-logo]: https://img.shields.io/badge/Solid-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb
 [Mongoose-url]: https://mongoosejs.com/
 [Mongoose-logo]: https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+[ts-node-logo]: https://img.shields.io/badge/ts--node-3178C6?logo=tsnode&logoColor=fff&style=for-the-badge
+[ts-node-url]: https://www.npmjs.com/package/ts-node-dev
+[Python-logo]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[Python-url]: https://www.python.org/
+[Sinon-logo]: https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
+[Sinon-url]: https://www.npmjs.com/package/sinon
