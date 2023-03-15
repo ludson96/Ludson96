@@ -53,7 +53,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
  [![JWT][JWT-logo]][JWT-url]
  [![Nodemon][Nodemon-logo]][Nodemon-url]
 
-## **Aprendendo**
+## **Aprendendo:**
 
 [![Python][Python-logo]][Python-url]
 
