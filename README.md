@@ -57,13 +57,13 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 
 [![Python][Python-logo]][Python-url]
 
-### Redes Sociais
+### **Redes Sociais**
 
 - 🌐 Me encontre no LinkedIn: [![Linkedin-logo]][Linkedin-url]
 
 <div align="center" margin-bottom="10px">
 
-### My GitHub Stats
+### **Meu GitHub Status**
 
   [![Ludson Pereira GitHub status][GitHub-stats-card]][GitHub]
   <a href="https://github.com/Ludson96">
