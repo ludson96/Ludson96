@@ -72,8 +72,6 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 
 </div>
 
-<br/>
-
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
 [CSS3-logo]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
