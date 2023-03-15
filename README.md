@@ -1,25 +1,25 @@
-Olá 👋 Meu nome é Ludson Pereira
------------------------
-Sou estudante de desenvolvimento Full-stack na Trybe.
------------------------
+# Olá 👋 Meu nome é Ludson Pereira
 
-Sou curioso, antenado e apaixonado por tecnologia. Sempre aprendendo alguma coisa nova. Estudo Desenvolvimento Web  (Full Stack) na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  Possuo técnico em informática, montagem e manutenção de micro. 
+## ***Sou estudante de desenvolvimento Full-stack na Trybe.***
+
+Sou curioso, antenado e apaixonado por tecnologia. Sempre aprendendo alguma coisa nova. Estudo Desenvolvimento Web  (Full Stack) na Trybe, uma escola que ensina a programar, a aprender e a trabalhar.  Possuo técnico em informática, montagem e manutenção de micro.
 
 Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo experiencia na área administrativa em empresas de suporte de TI, mas minha área sempre foi tecnologia.
 
-* 🌍 Duque de Caxias - Rio de Janeiro
-* ✉️  Você pode entrar em contato comigo em <a href="mailto:ludson_ps27@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail logo" />
-  </a>
+- 🌍 Duque de Caxias - Rio de Janeiro
+
+- 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url]
 
 ## **Linguagens:**
 
 ### **Back-End**
+
  [![JavaScript][JavaScript-logo]][JavaScript-url]
  [![TypeScript][TypeScript-logo]][TypeScript-url]
  [![NodeJS][NodeJS-logo]][NodeJS-url]
 
 ### **Front-End**
+
  [![JavaScript][JavaScript-logo]][JavaScript-url]
  [![TypeScript][TypeScript-logo]][TypeScript-url]
  [![React][React-logo]][React-url]
@@ -27,10 +27,12 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
  [![CSS3][CSS3-logo]][CSS3-url]
 
 ### **Database**
+
  [![MySQL][MySQL-logo]][MySQL-url]
  [![Mongo][Mongo-logo]][Mongo-url]
 
 ### **Testes**
+
   [![Jest][Jest-logo]][Jest-url]
   [![RTL][RTL-logo]][RTL-url]
   [![Mocha][Mocha-logo]][Mocha-url]
@@ -38,6 +40,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
   [![Sinon][Sinon-logo]][Sinon-url]
 
 ## **Ferramentas:**
+
  [![Express][Express-logo]][Express-url]
  [![Docker][Docker-logo]][Docker-url]
  [![Git][Git-logo]][Git-url]
@@ -47,27 +50,29 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
  [![Solid][Solid-logo]][Solid-url]
  [![ts-node][ts-node-logo]][ts-node-url]
  [![Mongoose][Mongoose-logo]][Mongoose-url]
+ [![JWT][JWT-logo]][JWT-url]
+ [![Nodemon][Nodemon-logo]][Nodemon-url]
 
 ## **Aprendendo**
 
 [![Python][Python-logo]][Python-url]
 
-### Redes Sociais 
+### Redes Sociais
 
-  <a href="https://www.linkedin.com/in/ludson96/" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    
+- 🌐 Me encontre no LinkedIn: [![Linkedin-logo]][Linkedin-url]
+
 <div align="center" margin-bottom="10px">
-    
+
 ### My GitHub Stats
-    
-  <a href="https://github.com/Ludson96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula"/>
-  <!-- <a href="https://github.com/Ludson96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ludson96&stroke=ffffff&theme=dracula" /></a> -->
-      
+
+  [![Ludson Pereira GitHub status][GitHub-stats-card]][GitHub] [![Linguagens mais usadas][GitHub-MLanguages-card]][GitHub]
+
+[GitHub-stats-card]: https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula&height=180
+[GitHub-MLanguages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula&height=180
+
 </div>
-    
-<br/>
+
+<!-- <br/> -->
 
 [HTML5-logo]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://developer.mozilla.org/pt-BR/docs/Web/HTML
@@ -119,3 +124,9 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Python-url]: https://www.python.org/
 [Sinon-logo]: https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon
 [Sinon-url]: https://www.npmjs.com/package/sinon
+[Hotmail-logo]: https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+[Hotmail-url]: mailto:ludson_ps27@hotmail.com
+[Linkedin-logo]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[Linkedin-url]: https://www.linkedin.com/in/ludson96/
+[GitHub]: https://github.com/Ludson96
+
