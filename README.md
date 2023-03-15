@@ -65,10 +65,10 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 
 ### My GitHub Stats
 
-  [![Ludson Pereira GitHub status][GitHub-stats-card]][GitHub] [![Linguagens mais usadas][GitHub-MLanguages-card]][GitHub]
-
-[GitHub-stats-card]: https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula&height=180
-[GitHub-MLanguages-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula&height=180
+  [![Ludson Pereira GitHub status][GitHub-stats-card]][GitHub]
+  <a href="https://github.com/Ludson96">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ludson96&layout=compact&theme=dracula"/>
+  </a>
 
 </div>
 
@@ -129,4 +129,4 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Linkedin-logo]: https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [Linkedin-url]: https://www.linkedin.com/in/ludson96/
 [GitHub]: https://github.com/Ludson96
-
+[GitHub-stats-card]: https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula&height=180
