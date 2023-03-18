@@ -9,7 +9,6 @@ Sou curioso, antenado e apaixonado por tecnologia. Sempre aprendendo alguma cois
 Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo experiencia na área administrativa em empresas de suporte de TI, mas minha área sempre foi tecnologia.
 
 - 🌍 Duque de Caxias - Rio de Janeiro
-
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
 
 ## **Linguagens:**
