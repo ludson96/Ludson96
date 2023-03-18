@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ludson96&color=brightgreen" alt="Profile views" /> </p>
+
 # Olá 👋 Meu nome é Ludson Pereira
 
 ## ***Sou estudante de desenvolvimento Full-stack na Trybe.***
@@ -8,7 +10,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 
 - 🌍 Duque de Caxias - Rio de Janeiro
 
-- 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url]
+- 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
 
 ## **Linguagens:**
 
@@ -128,3 +130,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Linkedin-url]: https://www.linkedin.com/in/ludson96/
 [GitHub]: https://github.com/Ludson96
 [GitHub-stats-card]: https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula&height=180
+[WhatsApp-logo]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[WhatsApp-url]: https://wa.me/5521991081759?text=Ol%C3%A1%2C+Ludson.+Vi+seu+perfil+no+GitHub
