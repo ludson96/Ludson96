@@ -57,6 +57,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 ## **Aprendendo:**
 
 [![Python][Python-logo]][Python-url]
+[![Pytest][Pytest-logo]][Pytest-url]
 
 ### **Redes Sociais**
 
@@ -131,3 +132,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [GitHub-stats-card]: https://github-readme-stats.vercel.app/api?username=Ludson96&count_private=true&show_icons=true&theme=dracula&height=180
 [WhatsApp-logo]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 [WhatsApp-url]: https://wa.me/5521991081759?text=Ol%C3%A1%2C+Ludson.+Vi+seu+perfil+no+GitHub
+[Pytest-logo]: https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white
+[Pytest-url]: https://docs.pytest.org/en/7.2.x/
