@@ -53,6 +53,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
  [![Mongoose][Mongoose-logo]][Mongoose-url]
  [![JWT][JWT-logo]][JWT-url]
  [![Nodemon][Nodemon-logo]][Nodemon-url]
+ [![.ENV][.ENV-logo]][.ENV-url]
 
 ## **Aprendendo:**
 
@@ -134,3 +135,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [WhatsApp-url]: https://wa.me/5521991081759?text=Ol%C3%A1%2C+Ludson.+Vi+seu+perfil+no+GitHub
 [Pytest-logo]: https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white
 [Pytest-url]: https://docs.pytest.org/en/7.2.x/
+[.ENV-logo]: https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge
+[.ENV-url]: https://www.npmjs.com/package/dotenv
