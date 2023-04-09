@@ -54,6 +54,7 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
  [![JWT][JWT-logo]][JWT-url]
  [![Nodemon][Nodemon-logo]][Nodemon-url]
  [![.ENV][.ENV-logo]][.ENV-url]
+ [![AJV][AJV-logo]][AJV-url]
 
 ## **Aprendendo:**
 
@@ -137,3 +138,5 @@ Acredito que o esforço e trabalho duro pode sim superar o talento. Possuo exper
 [Pytest-url]: https://docs.pytest.org/en/7.2.x/
 [.ENV-logo]: https://img.shields.io/badge/.ENV-ECD53F?logo=dotenv&logoColor=000&style=for-the-badge
 [.ENV-url]: https://www.npmjs.com/package/dotenv
+[AJV-logo]: https://img.shields.io/badge/Ajv-23C8D2.svg?style=for-the-badge&logo=Ajv&logoColor=white
+[AJV-url]: https://ajv.js.org/
