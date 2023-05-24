@@ -13,6 +13,10 @@ Possuo experiencia na área administrativa em empresas de suporte de TI, que inc
 - 🌍 Duque de Caxias - Rio de Janeiro
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
 
+### **Redes Sociais**
+
+- 🌐 Me encontre no LinkedIn: [![Linkedin-logo]][Linkedin-url]
+
 ## **Linguagens:**
 
 ### **Ciência de dados**
@@ -68,9 +72,7 @@ Possuo experiencia na área administrativa em empresas de suporte de TI, que inc
 [![Python][Python-logo]][Python-url]
 
 
-### **Redes Sociais**
 
-- 🌐 Me encontre no LinkedIn: [![Linkedin-logo]][Linkedin-url]
 
 <div align="center" margin-bottom="10px">
 
