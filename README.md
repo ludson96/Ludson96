@@ -2,7 +2,7 @@
 
 # Olá 👋 Meu nome é Ludson Pereira
 
-## ***Sou desenvolvedor full stack.***
+## ***Sou estudante de desenvolvedor web full stack.***
 
 Olá! Desde criança a área de tecnologia me chamou a atenção, sempre padronizava os jogos que eu jogava com notas, e comentários. E com essa padronização percebi que a área de programação seria perfeita para mim, pois além da organização, ter um novo problema por dia para quebrar a rotina e conseguir resolver um novo problema é gratificante. Acompanho a área de tecnologia diariamente, em canais no YouTube, newsletter e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova. 
 
