@@ -6,7 +6,7 @@
 
 Olá! Desde criança a área de tecnologia me chamou a atenção, sempre padronizava os jogos que eu jogava com notas, e comentários. E com essa padronização percebi que a área de programação seria perfeita para mim, pois além da organização, ter um novo problema por dia para quebrar a rotina e conseguir resolver um novo problema é gratificante. Acompanho a área de tecnologia diariamente, em canais no YouTube, newsletter e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova. 
 
-Conclui o curso de Desenvolvimento Web Full Stack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Acredito que o esforço e trabalho duro pode, sim, superar o talento, onde me vi diversas vezes ao longo do curso me superando e criando coisas que nunca imaginei criar, como projetos que podem ver no meu github (https://github.com/Ludson96). Possuo técnico em informática, montagem e manutenção de micro. 
+Conclui o curso de Desenvolvimento Web Full Stack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Acredito que o esforço e trabalho duro pode, sim, superar o talento, onde me vi diversas vezes ao longo do curso me superando e criando coisas que nunca imaginei criar, como projetos que podem ver no meu github. Possuo técnico em informática, montagem e manutenção de micro. 
 
 Possuo experiencia na área administrativa em empresas de suporte de TI, que inclusive já atuei como suporte de TI, mas minha área sempre foi tecnologia.
 
@@ -14,6 +14,11 @@ Possuo experiencia na área administrativa em empresas de suporte de TI, que inc
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
 
 ## **Linguagens:**
+
+### **Ciência de dados**
+
+[![Python][Python-logo]][Python-url]
+[![Pytest][Pytest-logo]][Pytest-url]
 
 ### **Back-End**
 
@@ -29,7 +34,7 @@ Possuo experiencia na área administrativa em empresas de suporte de TI, que inc
  [![HTML5][HTML5-logo]][HTML5-url]
  [![CSS3][CSS3-logo]][CSS3-url]
 
-### **Database**
+### **Banco de Dados**
 
  [![MySQL][MySQL-logo]][MySQL-url]
  [![Mongo][Mongo-logo]][Mongo-url]
@@ -58,10 +63,10 @@ Possuo experiencia na área administrativa em empresas de suporte de TI, que inc
  [![.ENV][.ENV-logo]][.ENV-url]
  [![AJV][AJV-logo]][AJV-url]
 
-## **Aprendendo:**
+## **Aprofundando:**
 
 [![Python][Python-logo]][Python-url]
-[![Pytest][Pytest-logo]][Pytest-url]
+
 
 ### **Redes Sociais**
 
