@@ -4,11 +4,12 @@
 
 ## ***Sou estudante de desenvolvedor web full stack.***
 
-Olá! Desde criança a área de tecnologia me chamou a atenção, sempre padronizava os jogos que eu jogava com notas, e comentários. E com essa padronização percebi que a área de programação seria perfeita para mim, pois além da organização, ter um novo problema por dia para quebrar a rotina e conseguir resolver um novo problema é gratificante. Acompanho a área de tecnologia diariamente, em canais no YouTube, newsletter e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova. 
+Olá!
+Me formei como Desenvolvedor Web Full Stack pela Trybe, onde realizei mais de 38 projetos nas áreas de Front End e Back End, focando principalmente em React.js, Node.js, Typescript, API REST, MySQL, MongoDB e Python. Além disso, possuo ensino técnico em Informática, Montagem e Manutenção de Microcomputadores.
 
-Conclui o curso de Desenvolvimento Web Full Stack na Trybe, uma escola que ensina a programar, a aprender e a trabalhar. Acredito que o esforço e trabalho duro pode, sim, superar o talento, onde me vi diversas vezes ao longo do curso me superando e criando coisas que nunca imaginei criar, como projetos que podem ver no meu github. Possuo técnico em informática, montagem e manutenção de micro. 
+Antes de me formar como desenvolvedor, trabalhei como Auxiliar Administrativo e Gerente de Atendimento, em que obtive experiencia com atendimento ao cliente e aprendi a ser resiliente, pensar rápido e lidar com pressão, entrega rápida e estresse do trabalho. Mas o que me chamou atenção na área de desenvolvimento Web é a livre e ilimitada forma de criar a partir do zero, coisas uteis tanto no micro como no macro, desde uma simples carteira para um pessoal como uma inteligência artificial que te ajuda no dia a dia, chat GPT como exemplo.
 
-Possuo experiencia na área administrativa em empresas de suporte de TI, que inclusive já atuei como suporte de TI, mas minha área sempre foi tecnologia.
+Hoje, estou me desenvolvendo mais em python, estudando curso da XPEduca,  e venho buscando diariamente aprender cada vez mais na área de desenvolvimento, me atualizando em canais no YouTube, newsletters e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova.
 
 - 🌍 Duque de Caxias - Rio de Janeiro
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
