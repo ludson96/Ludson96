@@ -2,7 +2,7 @@
 
 # Olá 👋 Meu nome é Ludson Pereira
 
-## ***Sou estudante de desenvolvedor web full stack.***
+## ***Sou desenvolvedor web full stack.***
 
 Olá!
 Me formei como Desenvolvedor Web Full Stack pela Trybe, onde realizei mais de 38 projetos nas áreas de Front End e Back End, focando principalmente em React.js, Node.js, Typescript, API REST, MySQL, MongoDB e Python. Além disso, possuo ensino técnico em Informática, Montagem e Manutenção de Microcomputadores.
