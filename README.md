@@ -68,9 +68,10 @@ Hoje, estou me desenvolvendo mais em python, estudando curso da XPEduca,  e ven
  [![.ENV][.ENV-logo]][.ENV-url]
  [![AJV][AJV-logo]][AJV-url]
 
-## **Aprofundando:**
+## **Aprendendo:**
 
-[![Python][Python-logo]][Python-url]
+ [![Next.js][Next.js-logo]][Next.js-url]
+ [![Java][Java-logo]][Java-url]
 
 
 
@@ -150,3 +151,7 @@ Hoje, estou me desenvolvendo mais em python, estudando curso da XPEduca,  e ven
 [.ENV-url]: https://www.npmjs.com/package/dotenv
 [AJV-logo]: https://img.shields.io/badge/Ajv-23C8D2.svg?style=for-the-badge&logo=Ajv&logoColor=white
 [AJV-url]: https://ajv.js.org/
+[Java-logo]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[Java-url]: https://www.java.com/pt-BR/
+[Next.js-logo]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+[Next.js-url]: https://nextjs.org/
