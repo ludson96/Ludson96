@@ -7,9 +7,9 @@
 Olá!
 Me formei como Desenvolvedor Web Full Stack pela Trybe, onde realizei mais de 38 projetos nas áreas de Front End e Back End, focando principalmente em React.js, Node.js, Typescript, API REST, MySQL, MongoDB e Python. Além disso, possuo ensino técnico em Informática, Montagem e Manutenção de Microcomputadores.
 
-Antes de me formar como desenvolvedor, trabalhei como Auxiliar Administrativo e Gerente de Atendimento, em que obtive experiencia com atendimento ao cliente e aprendi a ser resiliente, pensar rápido e lidar com pressão, entrega rápida e estresse do trabalho. Mas o que me chamou atenção na área de desenvolvimento Web é a livre e ilimitada forma de criar a partir do zero, coisas uteis tanto no micro como no macro, desde uma simples carteira para um pessoal como uma inteligência artificial que te ajuda no dia a dia, chat GPT como exemplo.
+Antes de me formar como desenvolvedor, trabalhei como Auxiliar Administrativo e Gerente de Atendimento, em que obtive experiência com atendimento ao cliente e aprendi a ser resiliente, pensar rápido e lidar com pressão, entrega rápida e estresse do trabalho. Mas o que me chamou atenção na área de desenvolvimento Web é a livre e ilimitada forma de criar a partir do zero, coisas uteis tanto no micro como no macro, desde uma simples carteira pessoal como uma inteligência artificial que te ajuda no dia a dia, chat GPT como exemplo.
 
-Hoje, estou me desenvolvendo mais em python, estudando curso da XPEduca,  e venho buscando diariamente aprender cada vez mais na área de desenvolvimento, me atualizando em canais no YouTube, newsletters e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova.
+Hoje, estou estudando ingles e me desenvolvendo em Next.js, estudando cursos do Reed Barger, RocketSeat e Codevolution, Java, estudando cursos da Trybe, Treina dev, RocketSeat e Nélio Alves e venho buscando diariamente aprender cada vez mais na área de desenvolvimento, me atualizando em canais no YouTube, newsletters e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova.
 
 - 🌍 Duque de Caxias - Rio de Janeiro
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
