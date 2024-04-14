@@ -71,10 +71,8 @@ Hoje, estou estudando ingles e me desenvolvendo em Next.js, estudando cursos do 
 ## **Aprendendo:**
 
  [![Next.js][Next.js-logo]][Next.js-url]
+ [![Tailwind-CSS][Tailwind-CSS-logo]][Tailwind-CSS-url]
  [![Java][Java-logo]][Java-url]
-
-
-
 
 <div align="center" margin-bottom="10px">
 
@@ -155,3 +153,5 @@ Hoje, estou estudando ingles e me desenvolvendo em Next.js, estudando cursos do 
 [Java-url]: https://www.java.com/pt-BR/
 [Next.js-logo]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 [Next.js-url]: https://nextjs.org/
+[Tailwind-CSS-logo]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-CSS-url]: https://tailwindcss.com/
