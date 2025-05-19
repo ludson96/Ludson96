@@ -4,15 +4,21 @@
 
 ## ***Sou desenvolvedor web full stack.***
 
-Olá!
-Me formei como Desenvolvedor Web Full Stack pela Trybe, onde realizei mais de 38 projetos nas áreas de Front End e Back End, focando principalmente em React.js, Node.js, Typescript, API REST, MySQL, MongoDB e Python. Além disso, possuo ensino técnico em Informática, Montagem e Manutenção de Microcomputadores.
+Sou apaixonado por tecnologia, formado pela Trybe e com experiência prática em mais de 40 projetos focados em soluções escaláveis e inovadoras utilizando tecnologias como React.js, Next.js, Node.js, TypeScript, Java e Python.
 
-Antes de me formar como desenvolvedor, trabalhei como Auxiliar Administrativo e Gerente de Atendimento, em que obtive experiência com atendimento ao cliente e aprendi a ser resiliente, pensar rápido e lidar com pressão, entrega rápida e estresse do trabalho. Mas o que me chamou atenção na área de desenvolvimento Web é a livre e ilimitada forma de criar a partir do zero, coisas uteis tanto no micro como no macro, desde uma simples carteira pessoal como uma inteligência artificial que te ajuda no dia a dia, chat GPT como exemplo.
+Antes da transição para a área de desenvolvimento, atuei nas áreas administrativa e de atendimento ao cliente, adquirindo habilidades em gestão de equipes, atendimento ao cliente e controle financeiro. Essa experiência fortaleceu minha resiliência, capacidade de resolução de problemas e gestão de tempo.
 
-Hoje, estou estudando ingles e me desenvolvendo em Next.js, estudando cursos do Reed Barger, RocketSeat e Codevolution, Java, estudando cursos da Trybe, Treina dev, RocketSeat e Nélio Alves e venho buscando diariamente aprender cada vez mais na área de desenvolvimento, me atualizando em canais no YouTube, newsletters e plataformas como Dio e Udemy, sempre aprendendo alguma coisa nova.
+Atualmente, curso Análise e Desenvolvimento de Sistemas na UNISUAM, me aprofundo em Java por meio de uma bolsa de estudos do Santander e estudo Cloud Computing e IA pela Escola da Nuvem. Além disso, estou aprimorando meu inglês através do curso Método Beway.
+
+Meu objetivo é aplicar minhas habilidades no desenvolvimento de soluções inovadoras que gerem impacto, contribuindo para projetos que integrem tecnologias modernas tanto no front-end quanto no back-end.
+
+Se você busca um desenvolvedor comprometido com a qualidade, inovação e trabalho em equipe, vamos nos conectar! 🚀
+
+
 
 - 🌍 Duque de Caxias - Rio de Janeiro
 - 📧 Você pode entrar em contato comigo em [![Hotmail][Hotmail-logo]][Hotmail-url] [![WhatsApp][WhatsApp-logo]][WhatsApp-url]
+- Portfólio: https://ludson-pereira.vercel.app/
 
 ### **Redes Sociais**
 
